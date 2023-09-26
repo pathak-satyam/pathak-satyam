@@ -1,10 +1,9 @@
 ## Hi, I'm Satyam Pathak, *CS student* at *Caldwell University.*
 
-- 📚 I'm a High School Graduate, persuing an undergraduate Degree in CS at Caldwell University💻
+- 📚 I'm a High School Graduate, persuing an undergraduate Degree in CS at Southeastern Louisiana University💻
 - 🐱‍👤 I'm currently learning **Web Application Development** and ** Mobile Application Development**
 - 🕵️‍♀️ I'm an active learner.
 - 👱‍♂️ Pronouns: he/him
-- ❤️‍ I love playing with **Vscode** and **Android Studio**
 - 💻 I'm open to any collaborations on Web app dev projects.
 - ⌨ I love to code **Python Scripts** as well.
 
