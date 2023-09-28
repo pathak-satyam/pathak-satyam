@@ -1,4 +1,4 @@
-## Hi, I'm Satyam Pathak, *CS student* at *Caldwell University.*
+## Hi, I'm Satyam Pathak, *CS student* at *Southeastern Louisiana University*
 
 - 📚 I'm a High School Graduate, persuing an undergraduate Degree in CS at Southeastern Louisiana University💻
 - 🐱‍👤 I'm currently learning **Web Application Development** and ** Mobile Application Development**
