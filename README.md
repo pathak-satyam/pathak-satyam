@@ -1,17 +1,15 @@
-## Hi, I'm Satyam Pathak, *CS student* at *Southeastern Louisiana University*
+Hi, I’m Satyam Pathak 👋
 
-- 📚 I'm a High School Graduate, persuing an undergraduate Degree in CS at Southeastern Louisiana University💻
-- 🐱‍👤 I'm currently learning **Web Application Development** and ** Mobile Application Development**
-- 🕵️‍♀️ I'm an active learner.
-- 👱‍♂️ Pronouns: he/him
-- 💻 I'm open to any collaborations on Web app dev projects.
-- ⌨ I love to code **Python Scripts** as well.
+🎓 Computer Science Senior at Southeastern Louisiana University
 
-<h2>GitHub Stats ⭐️ </h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=pathak-satyam&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"></p>
+💻 Senior CS student with a strong foundation in software development and full-stack applications
 
-<h2>Languages ⭐️ </h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathak-satyam&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Languages"></p>
+🤖 Actively exploring Artificial Intelligence and Data Science, with hands-on experience in Python-based projects
 
-# Connect with me on:
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-pathak-1a21b4230) ![Twitter Follow](https://img.shields.io/twitter/follow/satyam_pathak2?logo=twitter&style=for-the-badge)
+🧠 Curious, self-driven learner who enjoys breaking down complex problems
+
+🤝 Open to collaborations on web applications, AI, and data-driven projects
+
+🐍 I enjoy building and automating things with Python
+
+👱‍♂️ Pronouns: he/him
